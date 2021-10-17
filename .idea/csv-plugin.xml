@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\solarblock\csvs\Керамическая энергосберегающая пленка.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\sparks\csvs\Автомобильные_пленки.csv">
           <value>
             <Attribute>
